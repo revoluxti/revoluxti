@@ -7,15 +7,14 @@ Empresário, escritor, poeta e músico 🤭.
 <strong>Sou analista de cybersecurity e pentester, programador fullstack Jr. | C | Python | JavaSript | Web-desingner | com conhecimento em analise de redes e banco de dados</strong>. Atualmente trabalhando no desenvolvimento da minha loja virtual e em busca de parceiros comerciais, investidores e profissionais de tecnologia da informação que buscam expandir conexões e troca de conhecimento. 
 <strong>REVOLUXTI</strong> é um projeto pararelo a loja virtual <strong>ONCAMAROTE</strong> que oferece suporte aos clientes, serviços e soluções com as melhores tecnologias e ferramentas do mercado.
 
-  Também gostaria de alguma forma ajudar ONGs não governamentais e contribuir com a democrácia dos estudos e acesso a informação principalmente de hacking e tecnologia, para pessoas sem acessos e carentes de instrumentos e dispositivos, desde que se mostre o interesse em aprender e desenvolver o crecimento profissional de forma constante e objetiva.
+  Também gostaria de alguma forma ajudar pessoas e ONGs não governamentais e contribuir com a democrácia dos estudos e acesso a informação principalmente de hacking e tecnologia, para pessoas sem acessos e carentes de instrumentos e dispositivos, desde que se mostre o interesse em aprender e desenvolver o crecimento profissional de forma constante e objetiva.
 
   Acredito que a educação é princípio fundamental, para uma sociedade justa e honesta, a ética e a sabedoria são bases para o sucesso profissional, a união faz a força que por sua vez pode nos dar a vitória.
 
   Quero compartilhar minhas ideias e pesquisas para além de alavancar minha carreira profissional, e aumentar meus conhecimentos o mais importante cumprir meu papel como cidadão e ajudar na construção de uma sociedade brasileira mais igual e segura.
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=revoluxti&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=revoluxti&hide_progress=false&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=revoluxti&hide_progress=false&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=revoluxti&theme=merko&show_icons=true)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="revoluxti-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
