@@ -20,7 +20,12 @@ Empresário, escritor, poeta e músico 🤭.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=revoluxti&hide_progress=false&theme=merko)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=revoluxti&theme=merko&show_icons=true)
 
-<div style="display: inline_block"><br>
+## Email: 
+<a href="mailto:revoluxti@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Revoluxti">
+  </a>
+  
+## Area de conhecimento:
+<div style="display: inline_block">
   <img align="center" alt="revoluxti-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="revoluxti-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="revoluxti-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -32,19 +37,14 @@ Empresário, escritor, poeta e músico 🤭.
   <img align="center" alt="revoluxti-MySQL" height="30" width="40" src="https://github.com/user-attachments/assets/8eef667c-2a70-45c2-9343-f34a1ec782e0">
   <img align="center" alt="revolux-Sec" height="30" width="30" src="https://github.com/user-attachments/assets/4da3bcca-e460-4fe4-ada3-2396545fb60d">
 
-
   
-</div>
-
-##
-<div>
+## Redes:
   <a href="https://www.linkedin.com/in/revoluxti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/revoluxti" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.facebook.com/revoluxti" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/revoluxti" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.twitch.tv/revoluxti" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-
 </div>
-
 
 <!--**revoluxti/revoluxti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
