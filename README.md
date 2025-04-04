@@ -1,4 +1,4 @@
-## 🌎🌍🌏 Seja bem vindo, sou o Lucas. 
+## 🌎🌍🌏 Seja bem vindo, eu sou o Lucas. 
 Empresário, escritor, poeta e músico 🤭.
 
   Falando sério agora... 
