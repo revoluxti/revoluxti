@@ -5,6 +5,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=revoluxti&langs_count=8)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=revoluxti&layout=donut)](https://github.com/revoluxti/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=revoluxti&layout=donut-vertical)](https://github.com/revoluxti/github-readme-stats)
 <!--**revoluxti/revoluxti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
