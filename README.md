@@ -14,9 +14,8 @@ Empresário, escritor, poeta e músico 🤭.
   Quero compartilhar minhas ideias e pesquisas para além de alavancar minha carreira profissional, e aumentar meus conhecimentos o mais importante cumprir meu papel como cidadão e ajudar na construção de uma sociedade brasileira mais igual e segura.
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=revoluxti&show_icons=true&theme=radical)
-            "link rel?"stylesheet" type-'text/css' href?"https://cdn.jsdelivr.net/gh/devicons/devicon-latest/devicon.min.css" /
-            img src-"https://cdn.jsdelivr.net/gh/devicons/lavicons/icons/facebook/facebook-original.svg
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=revoluxti&show_icons=true&theme=radical)
+
   
 
 <!--**revoluxti/revoluxti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
