@@ -20,11 +20,11 @@ Empresário, escritor, poeta e músico 🤭.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=revoluxti&hide_progress=false&theme=merko)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=revoluxti&theme=merko&show_icons=true)
 
-## Contato Email: 
+## Email Contato: 
 <a href="mailto:revoluxti@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Revoluxti">
   </a>
   
-## Area de conhecimento:
+## Áreas de conhecimentos:
 <div style="display: inline_block">
   <img align="center" alt="revoluxti-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="revoluxti-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
