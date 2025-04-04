@@ -1,5 +1,5 @@
 ## Olá mundo, sou o Lucas 
-Empresário, poeta e músico 🤭.
+Empresário, escritor, poeta e músico 🤭.
 
 Falando sério agora... 
 <strong>Sou analista de cybersecurity e pentester, programador fullstack Jr. | C | Python | JavaSript | Web-desingner | com conhecimento em analise de redes e banco de dados|</strong>. Atualmente trabalhando no desenvolvimento da minha loja virtual e em busca de parceiros comerciais, investidores e profissionais de tecnologia da informação que buscam expandir conexões e troca de conhecimento. REVOLUXTI é um projeto pararelo a loja virtual que oferece suporte aos clientes ONCAMAROTE e oferece serviços e soluções com as melhores tecnologias e ferramentas do mercado.
