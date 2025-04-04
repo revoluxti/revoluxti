@@ -1,4 +1,6 @@
-## 🌎🌍🌏 Seja bem vindo, eu sou o Lucas. 
+## <img src="https://github.com/user-attachments/assets/8ba10572-74d8-4724-904c-96fc9be32d89" alt="icon" width="30"/> Seja bem vindo, eu sou o Lucas 🌎🌍🌏
+
+
 Empresário, escritor, poeta e músico 🤭.
 
   Falando sério agora... 
@@ -12,6 +14,8 @@ Empresário, escritor, poeta e músico 🤭.
   Acredito que a educação é princípio fundamental, para uma sociedade justa e honesta, a ética e a sabedoria são bases para o sucesso profissional, a união faz a força que por sua vez pode nos dar a vitória.
 
   Quero compartilhar minhas ideias e pesquisas para além de alavancar minha carreira profissional, e aumentar meus conhecimentos o mais importante cumprir meu papel como cidadão e ajudar na construção de uma sociedade brasileira mais igual e segura.
+
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=revoluxti&hide_progress=false&theme=merko)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=revoluxti&theme=merko&show_icons=true)
@@ -37,14 +41,9 @@ Empresário, escritor, poeta e músico 🤭.
 
 
 <!--**revoluxti/revoluxti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+fonte readme.md
+https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance
+
 win + (.) = abre caixa de emogi
 -->
