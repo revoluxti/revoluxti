@@ -1,4 +1,4 @@
-## <img src="https://github.com/user-attachments/assets/8ba10572-74d8-4724-904c-96fc9be32d89" alt="icon" width="30"/> Seja bem vindo, eu sou o Lucas 🌎🌍🌏
+## <img src="https://github.com/user-attachments/assets/8ba10572-74d8-4724-904c-96fc9be32d89" alt="icon" width="30"/> Seja bem vinda (o), eu sou o Lucas 🌎🌍🌏
 
 
 Empresário, escritor, poeta e músico 🤭.
