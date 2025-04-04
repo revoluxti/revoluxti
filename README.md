@@ -2,7 +2,7 @@
 Empresário, poeta e músico 🤭.
 
 Falando sério agora... 
-Sou analista de cybersecurity e pentester, programador fullstack Jr.| C | Python | JavaSript |, Web-desingner com conhecimento em analise de redes e de banco de dados. Atualmente trabalhando no desenvolvimento da minha loja virtual e em busca de parceiros comerciais, investidores e profissionais de tecnologia da informação que buscam expandir conexões e troca de conhecimento. REVOLUXTI é um projeto pararelo a loja virtual que oferece suporte aos clientes ONCAMAROTE e oferece serviços e soluções com as melhores tecnologias e ferramentas do mercado.
+Sou analista de cybersecurity e pentester, programador fullstack Jr.| C | Python | JavaSript |. Web-desingner com conhecimento em analise de redes e de banco de dados. Atualmente trabalhando no desenvolvimento da minha loja virtual e em busca de parceiros comerciais, investidores e profissionais de tecnologia da informação que buscam expandir conexões e troca de conhecimento. REVOLUXTI é um projeto pararelo a loja virtual que oferece suporte aos clientes ONCAMAROTE e oferece serviços e soluções com as melhores tecnologias e ferramentas do mercado.
 
 Acredito que a educação é princípio fundamental, para uma sociedade justa e honesta, a ética e a sabedoria são bases para o sucesso profissional, a união faz a força que pode nos levar a vitória. 
 
