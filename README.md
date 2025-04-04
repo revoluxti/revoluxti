@@ -15,8 +15,9 @@ Empresário, escritor, poeta e músico 🤭.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=revoluxti&show_icons=true&theme=radical)
-
-img src-"https://cdn.jsdelivr.net/gh/devicons/lavicons/icons/facebook/facebook-original.svg
+            "link rel?"stylesheet" type-'text/css' href?"https://cdn.jsdelivr.net/gh/devicons/devicon-latest/devicon.min.css" /
+            img src-"https://cdn.jsdelivr.net/gh/devicons/lavicons/icons/facebook/facebook-original.svg
+  
 
 <!--**revoluxti/revoluxti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
