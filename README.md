@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=revoluxti&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=revoluxtia&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=revoluxti&langs_count=8)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=revoluxti=donut)](https://github.com/revoluxti/github-readme-stats)
 <!--**revoluxti/revoluxti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
