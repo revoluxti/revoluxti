@@ -20,7 +20,7 @@ Empresário, escritor, poeta e músico 🤭.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=revoluxti&hide_progress=false&theme=merko)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=revoluxti&theme=merko&show_icons=true)
 
-## Email: 
+## Contato Email: 
 <a href="mailto:revoluxti@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Revoluxti">
   </a>
   
@@ -39,7 +39,7 @@ Empresário, escritor, poeta e músico 🤭.
   <img align="center" alt="revolux-Sec" height="30" width="30" src="https://github.com/user-attachments/assets/4da3bcca-e460-4fe4-ada3-2396545fb60d">
 
   
-## Redes:
+## Redes sociais:
   <a href="https://www.linkedin.com/in/revoluxti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/revoluxti" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.facebook.com/revoluxti" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
