@@ -17,21 +17,23 @@ Acadêmico Engenharia da Computação.<br><br>
   Quero compartilhar minhas ideias e pesquisas para além de alavancar minha carreira profissional, e aumentar meus conhecimentos e o mais importante cumprir meu papel como cidadão e ajudar na construção de uma sociedade brasileira mais igual e segura.
 
 
-
-<p>
+<p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=revoluxti&hide_progress=false&theme=merko" 
     width="400" 
     alt="Top Langs"
   />
 </p>
-<p>
+
+<p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=revoluxti&theme=merko&show_icons=true" 
     width="400"
     alt="Anurag's GitHub stats"
   />
 </p>
+
+
 
 
 
