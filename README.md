@@ -18,8 +18,21 @@ Acadêmico Engenharia da Computação.<br><br>
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=revoluxti&hide_progress=false&theme=merko)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=revoluxti&theme=merko&show_icons=true)
+<p>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=revoluxti&hide_progress=false&theme=merko" 
+    width="400" 
+    alt="Top Langs"
+  />
+</p>
+<p>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=revoluxti&theme=merko&show_icons=true" 
+    width="400" 
+    alt="Anurag's GitHub stats"
+  />
+</p>
+
 
 ## Email Contato: 
 <a href="mailto:revoluxti@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Revoluxti">
