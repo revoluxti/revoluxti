@@ -27,7 +27,7 @@ Acadêmico Engenharia da Computação.<br><br>
 
 At,te.<br>
 REVOLUXTI<br>
-Lucas de Oliveira Santos - Acadêmicoo de Eng. CP<br>
+Lucas de Oliveira Santos - Acadêmico de Eng. CP<br>
 Av. Dos Autonomistas S/N - Osasco-SP/BRASIL<br>
 <!-- Cards de Estatísticas -->
 <div align="center">
