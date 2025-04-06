@@ -47,17 +47,96 @@ Av. Dos Autonomistas S/N - Osasco-SP/BRASIL<br>
   
 ## Áreas de conhecimentos:
 <div style="display: inline_block">
-  <img align="center" alt="revoluxti-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="revoluxti-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="revoluxti-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="revoluxti-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="revoluxti-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
-  <img align="center" alt="revolux-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="revolux-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="revoluxti-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="revoluxti-MySQL" height="30" width="40" src="https://github.com/user-attachments/assets/8eef667c-2a70-45c2-9343-f34a1ec782e0">
-  <img align="center" alt="revoluxti-Docker" height="30" width="40"  src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000">
-  <img align="center" alt="revolux-Sec" height="30" width="30" src="https://github.com/user-attachments/assets/4da3bcca-e460-4fe4-ada3-2396545fb60d">
+  <img 
+    align="center" 
+    alt="HTML" 
+    title="HTML5" 
+    height="30" 
+    width="40" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
+  >
+  <img 
+    align="center" 
+    alt="CSS" 
+    title="CSS3"
+    height="30" 
+    width="40" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
+  >
+  <img 
+    align="center" 
+    alt="JavaScript" 
+    title="JavaScript" 
+    height="30" 
+    width="40" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
+  >
+  <img 
+    align="center" 
+    alt="Python" 
+    title="Python" 
+    height="30" 
+    width="40" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+  >
+  <img 
+    align="center" 
+    alt="C" 
+    title="C"
+    height="30" 
+    width="40" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg"
+  >
+  <img 
+    align="center" 
+    alt="TypeScript" 
+    title="TypeScript"
+    height="30" 
+    width="40" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"
+  >
+  <img 
+    align="center" 
+    alt="React" 
+    title="React"
+    height="30" 
+    width="40" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+  >
+  <img 
+    align="center" 
+    alt="Node.js"
+    title="Node.js"
+    height="30" 
+    width="40" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"
+  >
+  <img 
+    align="center"
+    alt="MySQL"
+    title="MySQL"
+    height="30"
+    width="40"
+    src="https://github.com/user-attachments/assets/8eef667c-2a70-45c2-9343-f34a1ec782e0"
+  >
+  <img
+    align="center"
+    alt="Docker"
+    title="Docker"
+    height="30"
+    width="40"
+    src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000"
+  >
+  <img
+    align="center"
+    alt="Security"
+    title="Security"
+    height="30"
+    width="30"
+    src="https://github.com/user-attachments/assets/4da3bcca-e460-4fe4-ada3-2396545fb60d"
+  >
+</div>
+
 
   
 ## Redes sociais:
