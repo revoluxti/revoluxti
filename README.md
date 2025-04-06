@@ -16,6 +16,13 @@ Acadêmico Engenharia da Computação.<br><br>
 
   Quero compartilhar minhas ideias e pesquisas para além de alavancar minha carreira profissional, e aumentar meus conhecimentos e o mais importante cumprir meu papel como cidadão e ajudar na construção de uma sociedade brasileira mais igual e segura.
 
+At,te.
+REVOLUXTI
+Lucas de Oliveira Santos
+Av. Dos Autonomistas S/N - Osasco-SP/BRASIL
+
+
+
 
 <p align="center">
   <img 
