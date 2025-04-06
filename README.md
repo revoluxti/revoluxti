@@ -10,7 +10,7 @@ Acadêmico Engenharia da Computação.<br><br>
 
 <strong>REVOLUXTI</strong> é um projeto pararelo a loja virtual <strong>ONCAMAROTE</strong> que oferece suporte aos clientes, serviços e soluções com as melhores tecnologias e ferramentas do mercado.
 
-  Também gostaria de alguma forma ajudar pessoas e ONGs não governamentais e contribuir com a democrácia dos estudos e acesso a informação principalmente de hacking e tecnologia, para pessoas sem acessos e carentes de instrumentos e dispositivos, desde que se mostre o interesse em aprender e desenvolver o crecimento profissional de forma constante e objetiva.
+  Também gostaria de alguma forma incentivar ONGs não governamentais e contribuir com a democrácia dos estudos e acesso a informação principalmente de hacking e tecnologia, para pessoas sem acessos e carentes de instrumentos e dispositivos, desde que se mostre o interesse em aprender e desenvolver o crecimento profissional de forma constante e objetiva.
 
   Acredito que a educação é princípio fundamental, para uma sociedade justa e honesta, a ética e a sabedoria são bases para o sucesso profissional, a união faz a força que por sua vez pode nos dar a vitória.
 
