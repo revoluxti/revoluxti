@@ -14,7 +14,7 @@ Acadêmico Engenharia da Computação.<br><br>
 
   Acredito que a educação é princípio fundamental, para uma sociedade justa e honesta, a ética e a sabedoria são bases para o sucesso profissional, a união faz a força que por sua vez pode nos dar a vitória.
 
-  Quero compartilhar minhas ideias e pesquisas para além de alavancar minha carreira profissional, e aumentar meus conhecimentos o mais importante cumprir meu papel como cidadão e ajudar na construção de uma sociedade brasileira mais igual e segura.
+  Quero compartilhar minhas ideias e pesquisas para além de alavancar minha carreira profissional, e aumentar meus conhecimentos e o mais importante cumprir meu papel como cidadão e ajudar na construção de uma sociedade brasileira mais igual e segura.
 
 
 
