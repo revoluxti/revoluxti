@@ -22,7 +22,7 @@ Acadêmico Engenharia da Computação.<br><br>
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=revoluxti&hide_progress=false&theme=merko" 
     width="400"
-    height="400"
+    height="200"
     alt="Top Langs"
   />
 </p>
