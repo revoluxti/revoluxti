@@ -21,19 +21,18 @@ Acadêmico Engenharia da Computação.<br><br>
 <p>
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=revoluxti&hide_progress=false&theme=merko" 
-    width="400"
-    height="200"
+    width="400" 
     alt="Top Langs"
   />
 </p>
 <p>
   <img 
     src="https://github-readme-stats.vercel.app/api?username=revoluxti&theme=merko&show_icons=true" 
-    width="400" 
-    height="400"
+    width="400"
     alt="Anurag's GitHub stats"
   />
 </p>
+
 
 
 ## Email Contato: 
