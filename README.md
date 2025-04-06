@@ -20,132 +20,167 @@ At,te.<br>
 REVOLUXTI<br>
 Lucas de Oliveira Santos - Academigo de Eng. CP<br>
 Av. Dos Autonomistas S/N - Osasco-SP/BRASIL<br>
-
-<p align="center">
+<!-- Cards de Estatísticas -->
+<div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=revoluxti&hide_progress=false&theme=merko" 
-    width="400" 
-    alt="Top Langs"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=revoluxti&hide_progress=false&theme=merko" 
+       width="400" 
+       alt="Top Langs"
   />
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=revoluxti&theme=merko&show_icons=true" 
-    width="400"
-    alt="Anurag's GitHub stats"
+       src="https://github-readme-stats.vercel.app/api?username=revoluxti&theme=merko&show_icons=true" 
+       width="400"
+       alt="Anurag's GitHub stats"
   />
-</p>
+</div>
 
+<br />
 
+<!-- Sessão Email Contato -->
+<h2 align="center">Email Contato</h2>
+<div align="center">
+  <a href="mailto:revoluxti@gmail.com" target="_blank" title="Enviar e-mail para revoluxti">
+    <img 
+         src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" 
+         alt="Gmail Revoluxti"
+    />
+  </a>
+</div>
 
+<br />
 
+<!-- Sessão Áreas de Conhecimentos -->
+<h2 align="center">Áreas de conhecimentos</h2>
+<div align="center">
+  <img 
+       alt="HTML" 
+       title="HTML5" 
+       height="30" 
+       width="40" 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
+  />
+  <img 
+       alt="CSS" 
+       title="CSS3"
+       height="30" 
+       width="40" 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
+  />
+  <img 
+       alt="JavaScript" 
+       title="JavaScript" 
+       height="30" 
+       width="40" 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
+  />
+  <img 
+       alt="Python" 
+       title="Python" 
+       height="30" 
+       width="40" 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+  />
+  <img 
+       alt="C" 
+       title="C"
+       height="30" 
+       width="40" 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg"
+  />
+  <img 
+       alt="TypeScript" 
+       title="TypeScript"
+       height="30" 
+       width="40" 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"
+  />
+  <img 
+       alt="React" 
+       title="React"
+       height="30" 
+       width="40" 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+  />
+  <img 
+       alt="Node.js"
+       title="Node.js"
+       height="30" 
+       width="40" 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"
+  />
+  <img 
+       alt="MySQL"
+       title="MySQL"
+       height="30"
+       width="40"
+       src="https://github.com/user-attachments/assets/8eef667c-2a70-45c2-9343-f34a1ec782e0"
+  />
+  <img
+       alt="Docker"
+       title="Docker"
+       height="30"
+       width="40"
+       src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000"
+  />
+  <img
+       alt="Security"
+       title="Security"
+       height="30"
+       width="30"
+       src="https://github.com/user-attachments/assets/4da3bcca-e460-4fe4-ada3-2396545fb60d"
+  />
+</div>
 
-## Email Contato: 
-<a href="mailto:revoluxti@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Revoluxti">
+<br />
+
+<!-- Sessão Redes Sociais -->
+<h2 align="center">Redes sociais</h2>
+<div align="center"> 
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/revoluxti" target="_blank" title="Meu perfil no LinkedIn">
+    <img 
+         src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+         alt="LinkedIn"
+    />
+  </a> 
+  
+  <!-- Instagram -->
+  <a href="https://instagram.com/revoluxti" target="_blank" title="Siga no Instagram">
+    <img 
+         src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
+         alt="Instagram"
+    />
   </a>
   
-## Áreas de conhecimentos:
-<div style="display: inline_block">
-  <img 
-    align="center" 
-    alt="HTML" 
-    title="HTML5" 
-    height="30" 
-    width="40" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
-  >
-  <img 
-    align="center" 
-    alt="CSS" 
-    title="CSS3"
-    height="30" 
-    width="40" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
-  >
-  <img 
-    align="center" 
-    alt="JavaScript" 
-    title="JavaScript" 
-    height="30" 
-    width="40" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
-  >
-  <img 
-    align="center" 
-    alt="Python" 
-    title="Python" 
-    height="30" 
-    width="40" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-  >
-  <img 
-    align="center" 
-    alt="C" 
-    title="C"
-    height="30" 
-    width="40" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg"
-  >
-  <img 
-    align="center" 
-    alt="TypeScript" 
-    title="TypeScript"
-    height="30" 
-    width="40" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"
-  >
-  <img 
-    align="center" 
-    alt="React" 
-    title="React"
-    height="30" 
-    width="40" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
-  >
-  <img 
-    align="center" 
-    alt="Node.js"
-    title="Node.js"
-    height="30" 
-    width="40" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"
-  >
-  <img 
-    align="center"
-    alt="MySQL"
-    title="MySQL"
-    height="30"
-    width="40"
-    src="https://github.com/user-attachments/assets/8eef667c-2a70-45c2-9343-f34a1ec782e0"
-  >
-  <img
-    align="center"
-    alt="Docker"
-    title="Docker"
-    height="30"
-    width="40"
-    src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000"
-  >
-  <img
-    align="center"
-    alt="Security"
-    title="Security"
-    height="30"
-    width="30"
-    src="https://github.com/user-attachments/assets/4da3bcca-e460-4fe4-ada3-2396545fb60d"
-  >
-</div>
-
-
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/revoluxti" target="_blank" title="Minha página no Facebook">
+    <img 
+         src="https://img.shields.io/badge/-Facebook-%232187F2?style=for-the-badge&logo=facebook&logoColor=white" 
+         alt="Facebook"
+    />
+  </a>
   
-## Redes sociais:
-  <a href="https://www.linkedin.com/in/revoluxti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/revoluxti" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.facebook.com/revoluxti" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.youtube.com/channel/revoluxti" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.twitch.tv/revoluxti" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <!-- YouTube -->
+  <a href="https://www.youtube.com/channel/revoluxti" target="_blank" title="Canal no YouTube">
+    <img 
+         src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
+         alt="YouTube"
+    />
+  </a>
+  
+  <!-- Twitch -->
+  <a href="https://www.twitch.tv/revoluxti" target="_blank" title="Live na Twitch">
+    <img 
+         src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" 
+         alt="Twitch"
+    />
+  </a>
 </div>
+
+
 
 <!--**revoluxti/revoluxti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
