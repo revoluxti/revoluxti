@@ -1,3 +1,5 @@
+<img align="right" src="https://komarev.com/ghpvc/?username=revoluxti&color=556B2F"><br>
+
 <div align="center">
   <img 
        src="https://github.com/user-attachments/assets/8ba10572-74d8-4724-904c-96fc9be32d89" 
@@ -188,6 +190,9 @@ Av. Dos Autonomistas S/N - Osasco-SP/BRASIL<br>
     />
   </a>
 </div>
+
+
+
 
 
 
