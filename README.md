@@ -88,19 +88,12 @@ Av. Dos Autonomistas S/N - Osasco-SP/BRASIL<br>
        width="40" 
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
   />
-  <img 
-       alt="Python" 
-       title="Python" 
+   <img 
+       alt="React" 
+       title="React"
        height="30" 
        width="40" 
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-  />
-  <img 
-       alt="C" 
-       title="C"
-       height="30" 
-       width="40" 
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
   />
   <img 
        alt="TypeScript" 
@@ -110,11 +103,18 @@ Av. Dos Autonomistas S/N - Osasco-SP/BRASIL<br>
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"
   />
   <img 
-       alt="React" 
-       title="React"
+       alt="C" 
+       title="C"
        height="30" 
        width="40" 
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg"
+  />
+  <img 
+       alt="Python" 
+       title="Python" 
+       height="30" 
+       width="40" 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
   />
   <img 
        alt="Node.js"
