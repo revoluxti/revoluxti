@@ -107,7 +107,7 @@ Av. Dos Autonomistas S/N - Osasco-SP/BRASIL<br>
        title="C"
        height="30" 
        width="40" 
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
   />
   <img 
        alt="Python" 
