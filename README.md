@@ -17,7 +17,7 @@ Empresário, escritor, poeta e músico 🤭.
   Falando sério agora... 
   
 Acadêmico de Engenharia da Computação.<br><br>
-<strong>Analista de cybersecurity e pentester, | Web-desingner | Web-Developer | C | Python | JavaSript | com conhecimento em analise de redes e banco de dados</strong>. Atualmente trabalhando em projetos pessoais entre eles posso citar minha loja virtual e minha aplicação para documentar relatórios pentest profissional e bug bounty. 
+<strong>|Analista de cybersecurity e pentester | Web-desingner | Web-Developer | C | Python | JavaScript | com conhecimento em analise de redes e banco de dados</strong>. Atualmente trabalhando em projetos pessoais entre eles posso citar minha loja virtual e minha aplicação para documentar relatórios pentest profissional e bug bounty. 
 Estou em busca de parceiros comerciais, investidores e profissionais de tecnologia da informação que buscam expandir conexões e trocar conhecimentos.
 
 <strong>REVOLUXTI</strong> é um projeto pararelo a loja virtual <strong>ONCAMAROTE</strong> que oferece suporte aos clientes, serviços e soluções com as melhores tecnologias e ferramentas do mercado.
