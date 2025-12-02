@@ -32,8 +32,8 @@ At,te.<br>
 REVOLUXTI<br>
 Lucas de Oliveira Santos - Acadêmico de Eng. CP<br>
 Av. Dos Autonomistas S/N - Osasco-SP/BRASIL<br>
-<!-- Cards de Estatísticas -->
-<div align="center">
+<!-- Cards de Estatísticas 
+/*<div align="center">
   <img 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=revoluxti&hide_progress=false&theme=merko" 
        width="400" 
@@ -49,7 +49,7 @@ Av. Dos Autonomistas S/N - Osasco-SP/BRASIL<br>
   />
 </div>
 
-<br />
+<br />-->
 
 <!-- Sessão Email Contato -->
 <h2 align="center">Email Contato</h2>
